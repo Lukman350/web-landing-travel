@@ -11,14 +11,19 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        "banner-bg": 'url("http://localhost:3000/banner.png")',
-        "snow-hills": 'url("http://localhost:3000/most-people/snow-hills.png")',
-        village: 'url("http://localhost:3000/most-people/village.png")',
-        "buck-kit": 'url("http://localhost:3000/most-people/buck-kit.png")',
-        "new-dream": 'url("http://localhost:3000/most-people/new-dream.png")',
-        ithaly: 'url("http://localhost:3000/most-people/ithaly.png")',
+        "banner-bg": 'url("https://web-landing-travel.vercel.app/banner.png")',
+        "snow-hills":
+          'url("https://web-landing-travel.vercel.app/most-people/snow-hills.png")',
+        village:
+          'url("https://web-landing-travel.vercel.app/most-people/village.png")',
+        "buck-kit":
+          'url("https://web-landing-travel.vercel.app/most-people/buck-kit.png")',
+        "new-dream":
+          'url("https://web-landing-travel.vercel.app/most-people/new-dream.png")',
+        ithaly:
+          'url("https://web-landing-travel.vercel.app/most-people/ithaly.png")',
         "lake-silent":
-          'url("http://localhost:3000/most-people/lake-silent.png")',
+          'url("https://web-landing-travel.vercel.app/most-people/lake-silent.png")',
       },
     },
     fontFamily: {
